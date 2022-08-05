@@ -31,3 +31,14 @@ plate :first-child
 level 16
 plate :only-child
 level 17
+.small:last-child
+level 18
+:nth-child(3)
+level 19
+bento:nth-last-child(3)
+level 20
+apple:first-of-type
+level 21
+plate:nth-of-type(2),plate:nth-of-type(4),plate:nth-of-type(6)
+level 22
+
